@@ -28,6 +28,23 @@ The media below is shared by both languages and referenced from `en/` and `cn/` 
 | `AllShapes_Sheet01.png` · `AllShapes_Sheet02.png` | 8×8 contact sheets covering all 128 shapes (1920×1080). 覆盖全部形状的总览图。 |
 | `AllShapes.mp4` | All 128 shapes merged into one 2:47 video. 全部形状的合并视频。 |
 
+### Overview / 形状总览
+
+![AllShapes sheet 01](AllShapes_Sheet01.png)
+
+![AllShapes sheet 02](AllShapes_Sheet02.png)
+
+### File type summary / 文件类型统计
+
+| Type | Count |
+|---|---|
+| Niagara System | 134 |
+| Niagara Emitter | 132 |
+| Niagara Dynamic Input | 129 |
+| Niagara Function Script | 128 |
+| Niagara Module Script | 4 |
+| **Total** | **527** |
+
 ### Node tutorials / 节点教程
 
 ![2DShape tutorial](TemplateNode/2DShape_Tutorial.jpg)
