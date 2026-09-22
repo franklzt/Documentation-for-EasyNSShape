@@ -34,6 +34,21 @@ The media below is shared by both languages and referenced from `en/` and `cn/` 
 
 ![3DShape tutorial](TemplateNode/3DShape_Tutorial.jpg)
 
+### The replaceable NDI function list
+
+Below the two templates' default dynamic inputs, the linked NDI function is the part you replace to change the shape.
+
+![NDI_Shape_1](TemplateNode/NDI_Shape_1.jpg)
+
+![NDI_Shape_2](TemplateNode/NDI_Shape_2.jpg)
+
+| NDI function | Default template | Format |
+|---|---|---|
+| `NDI_2D_ArchimedeanSpiral` | `NE_2DShapeTemplate` (→ `FormularXY`) | Vector2D |
+| `NDI_3D_AstroidExtrude` | `NE_3DShapeTemplate` (→ `Formular`) | Vector3D |
+
+> Full list of all 128 replaceable NDI functions: see [`NDI_NE_Shapes.md`](en/NDI_NE_Shapes.md). 全部 128 个可替换 NDI 函数见 `NDI_NE_Shapes.md`。
+
 ### Watch online / 在线观看
 
 - https://youtu.be/sP-1jeiqB6A
