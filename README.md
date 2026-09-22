@@ -30,9 +30,9 @@ The media below is shared by both languages and referenced from `en/` and `cn/` 
 
 ### Node tutorials / 节点教程
 
-![2DShape tutorial](../TemplateNode/2DShape_Tutorial.jpg)
+![2DShape tutorial](TemplateNode/2DShape_Tutorial.jpg)
 
-![3DShape tutorial](../TemplateNode/3DShape_Tutorial.jpg)
+![3DShape tutorial](TemplateNode/3DShape_Tutorial.jpg)
 
 ### Watch online / 在线观看
 
