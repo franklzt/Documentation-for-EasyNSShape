@@ -7,6 +7,11 @@ Documentation is available in two languages. 文档提供两种语言版本。
 | English | [`en/`](en) — [`README.md`](en/README.md) · [`NDI_NE_Shapes.md`](en/NDI_NE_Shapes.md) · [`NETemplate_Assets.md`](en/NETemplate_Assets.md) |
 | 中文 | [`cn/`](cn) — [`README.md`](cn/README.md) · [`NDI_NE_Shapes.md`](cn/NDI_NE_Shapes.md) · [`NETemplate_Assets.md`](cn/NETemplate_Assets.md) |
 
+### Watch online / 在线观看
+
+- **YouTube:** https://youtu.be/sP-1jeiqB6A
+- **Bilibili:** https://www.bilibili.com/video/BV1GMhB6gEUE/
+
 ### Start here / 从这里开始
 
 | Document | Contents |
@@ -65,8 +70,3 @@ Below the two templates' default dynamic inputs, the linked NDI function is the 
 | `NDI_3D_AstroidExtrude` | `NE_3DShapeTemplate` (→ `Formular`) | Vector3D |
 
 > Full list of all 128 replaceable NDI functions: see [`NDI_NE_Shapes.md`](en/NDI_NE_Shapes.md). 全部 128 个可替换 NDI 函数见 `NDI_NE_Shapes.md`。
-
-### Watch online / 在线观看
-
-- https://youtu.be/sP-1jeiqB6A
-- https://www.bilibili.com/video/BV1GMhB6gEUE/
