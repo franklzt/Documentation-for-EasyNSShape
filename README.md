@@ -1,10 +1,5 @@
 # EasyNSShape — Documentation
 
-### Watch online / 在线观看
-
-- https://youtu.be/sP-1jeiqB6A
-- https://www.bilibili.com/video/BV1GMhB6gEUE/
-
 Documentation is available in two languages. 文档提供两种语言版本。
 
 | Language / 语言 | Entry point / 入口 |
@@ -33,4 +28,13 @@ The media below is shared by both languages and referenced from `en/` and `cn/` 
 | `AllShapes_Sheet01.png` · `AllShapes_Sheet02.png` | 8×8 contact sheets covering all 128 shapes (1920×1080). 覆盖全部形状的总览图。 |
 | `AllShapes.mp4` | All 128 shapes merged into one 2:47 video. 全部形状的合并视频。 |
 
+### Node tutorials / 节点教程
 
+![2DShape tutorial](../TemplateNode/2DShape_Tutorial.jpg)
+
+![3DShape tutorial](../TemplateNode/3DShape_Tutorial.jpg)
+
+### Watch online / 在线观看
+
+- https://youtu.be/sP-1jeiqB6A
+- https://www.bilibili.com/video/BV1GMhB6gEUE/
